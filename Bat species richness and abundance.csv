@@ -1,0 +1,15 @@
+Sample,Site,Treatment,Year,Total,RichnessFamily,RichnessSpecies
+KOAC,KOA,Adjacent savanna,2022,5516,4,12
+KOAGL,KOA,Grazing Lawn,2022,9748,3,11
+PPC,PP,Adjacent savanna,2022,2067,5,14
+PPGL,PP,Grazing Lawn,2022,4450,4,10
+RRMC,RRM,Adjacent savanna,2022,5666,4,11
+RRMGL,RRM,Grazing Lawn,2022,5273,3,10
+2TPC,2TP,Adjacent savanna,2023,964,5,12
+2TPGL,2TP,Grazing Lawn,2023,1989,5,14
+LWC,LW,Adjacent savanna,2023,425,3,11
+LWGL,LW,Grazing Lawn,2023,2126,4,11
+MWC,MW,Adjacent savanna,2023,1226,5,12
+MWGL,MW,Grazing Lawn,2023,2635,4,12
+PV2C,PV2,Adjacent savanna,2023,578,4,10
+PV2GL,PV2,Grazing Lawn,2023,906,5,14
