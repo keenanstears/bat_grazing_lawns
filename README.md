@@ -13,11 +13,11 @@ R markdown_bat grazing lawn code.Rmd: Rmarkdown script that contains the code fo
 _Data_  
 - Bat species comp.csv: collected data on bat species composition that is used in the multivariate analyses.  
 - Bat species comp metadata.csv: metadata associated with the bat species composition data. Again, this was used in the multivariate analyses.  
-- Bat species richness and abundance.csv: collected data on bat species richness and abundnace. Bat activity (# of calls) was used instead of abundance.  
+- Bat species richness and abundance.csv: collected data on bat species richness and abundance. Bat activity (# of calls) was used instead of abundance.  
 
 - Insect species comp.csv: collected data on insect species composition that is used in the multivariate analyses.  
 - Insect species comp metadata.csv: metadata associated with the insect species composition data. Again, this was used in the multivariate analyses.  
-- Insect grazing lawn abundance and richness.csv: collected data on insect species richness and abundnace.  
+- Insect grazing lawn abundance and richness.csv: collected data on insect species richness and abundance.  
 
 - Grazing lawn ave grass height data.csv: grass height measurements between treatments (grazing lawns and adjacent savanna controls).  
 - Grazing lawn tree density data.csv: tree count data between treatments (grazing lawns and adjacent savanna controls).
